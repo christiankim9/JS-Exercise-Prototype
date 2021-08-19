@@ -38,7 +38,7 @@ Airplane.prototype.land = function () {
     - Give instances of Person a method `.toString()`:
         + It should return a string with `name` and `age`. Example: "Mary, 50"
 */
-
+ 
 function Person(name, age) {
   this.name = name;
   this.age = age;
